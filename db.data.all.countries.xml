@@ -3,1431 +3,1431 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
 
+
     <changeSet id="add-all-countries" author="Mabedi">
 
         <insert tableName="countries">
-            <column name="id" value="4891b734-30d0-11e8-a36f-056e03ebcde3"/>
+            <column name="id" value="a8d7a369-fbdf-4523-bdfd-96d3bf98c3aa"/>
             <column name="country" value="Botswana"/>
             <column name="code" value="BW"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AF"/>
+            <column name="id" value="c9844fd8-c5ee-474b-a95d-665fa7b24652"/>
             <column name="country" value="Afghanistan"/>
             <column name="code" value="AF"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AX"/>
+            <column name="id" value="7dc9276b-8c65-44cc-a909-1c120badaa97"/>
             <column name="country" value="Åland Islands"/>
             <column name="code" value="AX"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AL"/>
+            <column name="id" value="   19181f93-b00c-4b9a-8abb-719674187988"/>
             <column name="country" value="Albania"/>
             <column name="code" value="AL"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="DZ"/>
+            <column name="id" value="7cf7b3c9-b16b-406d-a2a4-cb943254b889"/>
             <column name="country" value="Algeria"/>
             <column name="code" value="DZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AO"/>
+            <column name="id" value=" 7252e0b2-6505-48f7-834f-298732b0abdc"/>
             <column name="country" value="AndorrA"/>
             <column name="code" value="AO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AS"/>
+            <column name="id" value="b01cfae8-f445-41fb-9755-23ca99904ebc"/>
             <column name="country" value="Angola"/>
             <column name="code" value="AS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AI"/>
+            <column name="id" value="bab2fd15-9efb-4f6f-89c1-9ab4c6caa8e7"/>
             <column name="country" value="Anguilla"/>
             <column name="code" value="AI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AQ"/>
+            <column name="id" value="456d503e-f986-477e-86ba-433629dce13c"/>
             <column name="country" value="Antarctica"/>
             <column name="code" value="AQ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AG"/>
+            <column name="id" value="55fa7570-50ea-4c37-a23c-ef16f959176a"/>
             <column name="country" value="Antigua and Barbuda"/>
             <column name="code" value="AG"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AR"/>
+            <column name="id" value="79cc598d-51fd-4a74-ae98-0b066fbd68c8"/>
             <column name="country" value="Argentina"/>
             <column name="code" value="AR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AM"/>
+            <column name="id" value="776033fe-240d-44d1-bdde-2794e8992a74"/>
             <column name="country" value="Armenia"/>
             <column name="code" value="AM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AW"/>
+            <column name="id" value="c11175f2-71f1-41ec-8088-78f685619a1d"/>
             <column name="country" value="Aruba"/>
             <column name="code" value="AW"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AU"/>
+            <column name="id" value="110e1122-e526-4086-b3d5-3c00771856bb"/>
             <column name="country" value="Australia"/>
             <column name="code" value="AU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AT"/>
+            <column name="id" value="b9eb1913-fe5e-4d02-9f25-6af0f9a52751"/>
             <column name="country" value="Austria"/>
             <column name="code" value="AT"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AZ"/>
+            <column name="id" value="00953cd1-41f8-470b-b936-2befbec7cb87"/>
             <column name="country" value="Azerbaijan"/>
             <column name="code" value="AZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BS"/>
+            <column name="id" value="31bfdc08-f8ee-4fdf-b4f5-8bd72c85d165"/>
             <column name="country" value="Bahamas"/>
             <column name="code" value="BS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BH"/>
+            <column name="id" value="28691279-dae4-441b-8719-e4782cf1b9af"/>
             <column name="country" value="Bahrain"/>
             <column name="code" value="BH"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BD"/>
+            <column name="id" value="2a706058-300d-4367-aa3a-de2482bc63d5"/>
             <column name="country" value="Bangladesh"/>
             <column name="code" value="BD"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BB"/>
+            <column name="id" value="2796a520-0922-4b23-966a-37ba752edd06"/>
             <column name="country" value="Barbados"/>
             <column name="code" value="BB"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BY"/>
+            <column name="id" value="094e855f-0b10-4504-8b9a-e7fe6b8f86e6"/>
             <column name="country" value="Belarus"/>
             <column name="code" value="BY"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BE"/>
+            <column name="id" value="ec4a42f3-1377-415c-a8e0-113bb1337410"/>
             <column name="country" value="Belgium"/>
             <column name="code" value="BE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BZ"/>
+            <column name="id" value="676a9b61-0cc6-4fae-a255-5214dfd81df2"/>
             <column name="country" value="Belize"/>
             <column name="code" value="BZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BJ"/>
+            <column name="id" value="4321ecd8-4ac4-4076-8895-45286e9c654d"/>
             <column name="country" value="Benin"/>
             <column name="code" value="BJ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BM"/>
+            <column name="id" value="15a525db-48be-4e77-bfc0-12799e607a76"/>
             <column name="country" value="Bermuda"/>
             <column name="code" value="BM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="BT"/>
+            <column name="id" value="f53d01ac-3399-47a7-bfe4-e7e47f9f0109"/>
             <column name="country" value="Bhutan"/>
             <column name="code" value="BT"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BO"/>
+            <column name="id" value="ed6f44b1-3b58-4eda-91d5-81f9515b7998"/>
             <column name="country" value="Bolivia"/>
             <column name="code" value="BO"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BA"/>
+            <column name="id" value="13d7f72a-cbdb-4325-8a5f-6256ddcd1dde"/>
             <column name="country" value="Bosnia and Herzegovina"/>
             <column name="code" value="BA"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BV"/>
+            <column name="id" value="0e61f6e7-58da-4564-a393-772496d7f369"/>
             <column name="country" value="Bouvet Island"/>
             <column name="code" value="BV"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BR"/>
+            <column name="id" value="78e74464-b8b5-47d0-824c-8a2489ce6d31"/>
             <column name="country" value="Brazil"/>
             <column name="code" value="BR"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="IO"/>
+            <column name="id" value="4b23de70-ec37-4ab1-9394-b9ccbc7bbd0f"/>
             <column name="country" value="British Indian Ocean Territory"/>
             <column name="code" value="IO"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BN"/>
+            <column name="id" value="2670b3da-abc8-468f-a9fb-db6ecc3768e3"/>
             <column name="country" value="Brunei Darussalam"/>
             <column name="code" value="BN"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BG"/>
+            <column name="id" value="8a43385c-c09e-4266-9321-080fd032ee97"/>
             <column name="country" value="Bulgaria"/>
             <column name="code" value="BG"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BF"/>
+            <column name="id" value="863286b4-13b1-427e-a864-0444a3773a92"/>
             <column name="country" value="Burkina Faso"/>
             <column name="code" value="BF"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="BI"/>
+            <column name="id" value="3a2e405b-d7e4-4585-9ac8-8b2ecacde1a4"/>
             <column name="country" value="Burundi"/>
             <column name="code" value="BI"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="KH"/>
+            <column name="id" value="151537ee-bf71-4d49-a253-5fce6bd3cd76"/>
             <column name="country" value="Cambodia"/>
             <column name="code" value="KH"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="CM"/>
+            <column name="id" value="fccd114d-fda6-4e06-aaaf-8b447914f149"/>
             <column name="country" value="Cameroon"/>
             <column name="code" value="CM"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="CA"/>
+            <column name="id" value="c6b28552-0cec-4cbe-9327-e8b5389a2784"/>
             <column name="country" value="Canada"/>
             <column name="code" value="CA"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="CV"/>
+            <column name="id" value="68e0a45e-8b5b-4245-ae50-f6de12059f20"/>
             <column name="country" value="Cape Verde"/>
             <column name="code" value="CV"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="CF"/>
+            <column name="id" value="f7389c68-4b3b-4010-9d40-1f1364ba1eaa"/>
             <column name="country" value="Central African Republic"/>
             <column name="code" value="CF"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TD"/>
+            <column name="id" value="e9d8a2d8-0212-4a3a-85cf-e5ea41ea2f69"/>
             <column name="country" value="Chad"/>
             <column name="code" value="TD"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CL"/>
+            <column name="id" value="85ecb1be-dd72-45d2-bb1f-fb3e0e172eaa"/>
             <column name="country" value="Chile"/>
             <column name="code" value="CL"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CN"/>
+            <column name="id" value="73e63ecd-094a-40b4-af63-c3ceb6b84df4"/>
             <column name="country" value="China"/>
             <column name="code" value="CN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CX"/>
+            <column name="id" value="1f4c3fdd-b28a-4cb5-a802-f4001cd890c7"/>
             <column name="country" value="Christmas Island"/>
             <column name="code" value="CX"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CC"/>
+            <column name="id" value="a7ccd0cc-37a2-4dc5-b6f5-bdb74002f251"/>
             <column name="country" value="Cocos (Keeling) Islands"/>
             <column name="code" value="CC"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CO"/>
+            <column name="id" value="573b27cd-775c-414a-849c-b954a6b15708"/>
             <column name="country" value="Colombia"/>
             <column name="code" value="CO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KM"/>
+            <column name="id" value="1db2d76e-1a9e-415f-8bde-9f6436b07dbc"/>
             <column name="country" value="Comoros"/>
             <column name="code" value="KM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CG"/>
+            <column name="id" value="d0600671-75d0-42a9-acf9-4745c3c8e895"/>
             <column name="country" value="Congo"/>
             <column name="code" value="CG"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CD"/>
+            <column name="id" value="3d5c26b7-d8ca-4577-8abe-1de54a1f46a4"/>
             <column name="country" value="Congo, The Democratic Republic of the"/>
             <column name="code" value="CD"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CK"/>
+            <column name="id" value="39e8eebc-b6f1-40bf-859f-8eea62ca558a"/>
             <column name="country" value="Cook Islands"/>
             <column name="code" value="CK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CR"/>
+            <column name="id" value="b9535c5a-cb6a-4ef0-985a-71e71fc1521e"/>
             <column name="country" value="Costa Rica"/>
             <column name="code" value="CR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CI"/>
+            <column name="id" value="80c27b97-c91c-4cc8-a279-ddf065dfa260"/>
             <column name="country" value="Cote D Ivoire"/>
             <column name="code" value="CI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="HR"/>
+            <column name="id" value="109ee27d-fd54-4ab7-bd60-c5fa54f68060"/>
             <column name="country" value="Croatia"/>
             <column name="code" value="HR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CU"/>
+            <column name="id" value="8715996b-065a-4334-ab98-65fff7ddb923"/>
             <column name="country" value="Cuba"/>
             <column name="code" value="CU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CY"/>
+            <column name="id" value="529ecb60-cb40-489a-81f1-b390eeb576e2"/>
             <column name="country" value="Cyprus"/>
             <column name="code" value="CY"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CZ"/>
+            <column name="id" value="434980b6-00f6-41c2-a494-c03878f103c1"/>
             <column name="country" value="Czech Republic"/>
             <column name="code" value="CZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="DK"/>
+            <column name="id" value="2dd2c964-6f3b-4cf1-a09c-866b791b8556"/>
             <column name="country" value="Denmark"/>
             <column name="code" value="DK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="DJ"/>
+            <column name="id" value="82bfb711-5045-4c21-9c98-5735c013a215"/>
             <column name="country" value="Djibouti"/>
             <column name="code" value="DJ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="DM"/>
+            <column name="id" value="05e8d30f-5f8c-4390-89c8-17d0c0428056"/>
             <column name="country" value="Dominica"/>
             <column name="code" value="DM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="DO"/>
+            <column name="id" value="1af7e728-74cb-4575-a696-a1d72fba4e98"/>
             <column name="country" value="Dominican Republic"/>
             <column name="code" value="DO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CE"/>
+            <column name="id" value="262379b1-89f8-4f74-b9ac-c2e5040fdc51"/>
             <column name="country" value="Ecuador"/>
             <column name="code" value="EC"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="EG"/>
+            <column name="id" value="fc55fbdb-087e-44f6-ae15-ddbfa36768c5"/>
             <column name="country" value="Egypt"/>
             <column name="code" value="EG"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SV"/>
+            <column name="id" value="a96354aa-b7c4-447d-bf74-6e33dd0c2072"/>
             <column name="country" value="El Salvador"/>
             <column name="code" value="SV"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GQ"/>
+            <column name="id" value="4564e345-f791-4e8b-985c-46e34bc53f4c"/>
             <column name="country" value="Equatorial Guinea"/>
             <column name="code" value="GQ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ER"/>
+            <column name="id" value="6963e5d9-e392-4e19-af41-2a79e2420674"/>
             <column name="country" value="Eritrea"/>
             <column name="code" value="ER"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="EE"/>
+            <column name="id" value="b0baaf78-56b5-430e-b7ca-515dd5c9e7b9"/>
             <column name="country" value="Estonia"/>
             <column name="code" value="EE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ET"/>
+            <column name="id" value="edecf25e-ac94-4a55-a0b2-de9fc7bb7780"/>
             <column name="country" value="Ethiopia"/>
             <column name="code" value="ET"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="FK"/>
+            <column name="id" value="de29a7e7-4803-44c7-8374-314428d30913"/>
             <column name="country" value="Falkland Islands (Malvinas)"/>
             <column name="code" value="FK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="FO"/>
+            <column name="id" value="ed77ea1b-e61c-4937-994b-3b348d3ebd75"/>
             <column name="country" value="Faroe Islands"/>
             <column name="code" value="FO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="FJ"/>
+            <column name="id" value="facaaa5e-dd26-4fda-992b-0bc11ea799d1"/>
             <column name="country" value="Fiji"/>
             <column name="code" value="FJ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="FI"/>
+            <column name="id" value="409d7e89-72c1-40f6-a79b-92894ed43597"/>
             <column name="country" value="Finland"/>
             <column name="code" value="FI"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="FR"/>
+            <column name="id" value="2b9cb060-6f8c-4ad2-a487-3945b5334eab"/>
             <column name="country" value="France"/>
             <column name="code" value="FR"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="GF"/>
+            <column name="id" value="7dc29136-64da-471a-b3ae-d2d4c973a12e"/>
             <column name="country" value="French Guiana"/>
             <column name="code" value="GF"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="PF"/>
+            <column name="id" value="af6d3f38-3617-4eb1-9fef-05fec4c9f182"/>
             <column name="country" value="French Polynesia"/>
             <column name="code" value="PF"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="TF"/>
+            <column name="id" value="7804dfa9-d325-4192-a34d-73bc020abaf1"/>
             <column name="country" value="French Southern Territories"/>
             <column name="code" value="TF"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="GA"/>
+            <column name="id" value="371fb000-020c-4b81-8933-54e6ba329de9"/>
             <column name="country" value="Gabon"/>
             <column name="code" value="GA"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GM"/>
+            <column name="id" value="c56d0247-35a0-4adb-b6f2-d47909e2d8a5"/>
             <column name="country" value="Gambia"/>
             <column name="code" value="GM"/>
         </insert>
 
-
         <insert tableName="countries">
-            <column name="id" value="GE"/>
+            <column name="id" value="34eca15d-1978-405c-83d8-2c5c201ce065"/>
             <column name="country" value="Georgia"/>
             <column name="code" value="GE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="DE"/>
+            <column name="id" value="1d581d14-f2b9-4303-a64d-645a11adbb34"/>
             <column name="country" value="Germany"/>
             <column name="code" value="DE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GH"/>
+            <column name="id" value="7dfdcf5c-c9be-48b6-b714-582b117dd03e"/>
             <column name="country" value="Ghana"/>
             <column name="code" value="GH"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="GI"/>
+            <column name="id" value="82e20ba2-ea03-4da7-b101-a34fe6d630ca"/>
             <column name="country" value="Gibraltar"/>
             <column name="code" value="GI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GR"/>
+            <column name="id" value="9151d057-4682-4760-8733-7a358b1476b4"/>
             <column name="country" value="Greece"/>
             <column name="code" value="GR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GL"/>
+            <column name="id" value="82cbc3d6-5cae-4fd6-ae69-b3646db0f522"/>
             <column name="country" value="Greenland"/>
             <column name="code" value="GL"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="GD"/>
+            <column name="id" value="8c2e448c-d099-4bd4-b68b-b006945b1d6d"/>
             <column name="country" value="Grenada"/>
             <column name="code" value="GD"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GP"/>
+            <column name="id" value="7908e848-b4e7-4faf-b368-2cd99704a4b8"/>
             <column name="country" value="Guadeloupe"/>
             <column name="code" value="DP"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GU"/>
+            <column name="id" value="0cb505cb-5d65-47dc-bc06-0af73ca98010"/>
             <column name="country" value="Guam"/>
             <column name="code" value="GU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GT"/>
+            <column name="id" value="4ac4ed88-42a7-44a3-80cf-e0b24d31c33d"/>
             <column name="country" value="Guatemala"/>
             <column name="code" value="GT"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GG"/>
+            <column name="id" value="5fca2150-ad59-485e-aba3-2120f1430034"/>
             <column name="country" value="Guernsey"/>
             <column name="code" value="GG"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="GN"/>
+            <column name="id" value="b123216e-db8c-4969-bb69-5829578d7bee"/>
             <column name="country" value="Guinea"/>
             <column name="code" value="GN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GW"/>
+            <column name="id" value="9d8477d0-2e58-467d-9eee-a20c9a7821fb"/>
             <column name="country" value="Guinea-Bissau"/>
             <column name="code" value="GW"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="GY"/>
+            <column name="id" value="705cc411-37ec-4a75-a825-862a3c1b2677"/>
             <column name="country" value="Guyana"/>
             <column name="code" value="GY"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="HT"/>
+            <column name="id" value="b2a77c1c-0bb7-4668-b3ff-22bca5812aa2"/>
             <column name="country" value="Haiti"/>
             <column name="code" value="HT"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="HM"/>
+            <column name="id" value="a22cd288-832b-4892-9a40-c95c6aec19c2"/>
             <column name="country" value="Heard Island and Mcdonald Islands"/>
             <column name="code" value="HM"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="HN"/>
+            <column name="id" value="07f06ed1-4efb-4335-8e6a-715d88eddfea"/>
             <column name="country" value="Honduras"/>
             <column name="code" value="HN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="HK"/>
+            <column name="id" value="9deb8199-66fa-476c-a6b3-f47fcb625a16"/>
             <column name="country" value="Hong Kong"/>
             <column name="code" value="HK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="HU"/>
+            <column name="id" value="2d8f25cf-f373-4292-9edc-432c5fac3a27"/>
             <column name="country" value="Hungary"/>
             <column name="code" value="HU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="IS"/>
+            <column name="id" value="e4be206a-ac90-42eb-b808-50395bc77c0a"/>
             <column name="country" value="Iceland"/>
             <column name="code" value="IS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="IN"/>
+            <column name="id" value="ec4f5a51-13be-4221-a581-b4811d5d1c60"/>
             <column name="country" value="India"/>
             <column name="code" value="IN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ID"/>
+            <column name="id" value="e2d8d2c9-90d0-4afe-996d-ab0c1286776a"/>
             <column name="country" value="Indonesia"/>
             <column name="code" value="ID"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="IR"/>
+            <column name="id" value="0492bf82-cb62-42f2-849e-24ce3c46ccfa"/>
             <column name="country" value="Iran, Islamic Republic Of"/>
             <column name="code" value="IR"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="IQ"/>
+            <column name="id" value="eb37278e-5c28-4bb5-87c4-b77a13ce1604"/>
             <column name="country" value="Iraq"/>
             <column name="code" value="IQ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="IE"/>
+            <column name="id" value="ea7a67b8-0edf-4440-8548-81ba00d463f0"/>
             <column name="country" value="Ireland"/>
             <column name="code" value="IE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="IM"/>
+            <column name="id" value="478b874d-9b14-492c-8383-681c451c535f"/>
             <column name="country" value="Isle of Man"/>
             <column name="code" value="IM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="IL"/>
+            <column name="id" value="0d70dfdf-0bbe-4ea7-b812-644528778392"/>
             <column name="country" value="Israel"/>
             <column name="code" value="IL"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="IT"/>
+            <column name="id" value="6fa34c7a-e08a-403d-b307-2d8fb4bf0945"/>
             <column name="country" value="Italy"/>
             <column name="code" value="IT"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="JM"/>
+            <column name="id" value="de702838-1d79-401f-9f09-748562e3afb8"/>
             <column name="country" value="Jamaica"/>
             <column name="code" value="JM"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="JP"/>
+            <column name="id" value="f1adb54a-01b9-48dc-929b-3eb406efed96"/>
             <column name="country" value="Japan"/>
             <column name="code" value="JP"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="JE"/>
+            <column name="id" value="666e9cb5-b98b-4376-b8c8-91f2884df2d3"/>
             <column name="country" value="Jersey"/>
             <column name="code" value="JE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="JO"/>
+            <column name="id" value="56eb7145-cb44-4a7c-9096-0df1a6aa90cd"/>
             <column name="country" value="Jordan"/>
             <column name="code" value="JO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KZ"/>
+            <column name="id" value="2e3dc270-6719-4f18-a385-9350f64e80ff"/>
             <column name="country" value="Kazakhstan"/>
             <column name="code" value="KZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KE"/>
+            <column name="id" value="2ca69eae-89d0-4599-8bb0-762bf687a168"/>
             <column name="country" value="Kenya"/>
             <column name="code" value="KE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KI"/>
+            <column name="id" value="5c5f3f8c-220b-4473-8dcc-bd6ee181305e"/>
             <column name="country" value="Kiribati"/>
             <column name="code" value="KI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KP"/>
+            <column name="id" value="f3d2da00-addc-46ae-942e-a80bd7cd2f86"/>
             <column name="country" value="Korea, Democratic People 'S Republic of "/>
             <column name="code" value="KP"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KR"/>
+            <column name="id" value="026b089e-5d1e-4598-b7fa-ce2645c3c92d"/>
             <column name="country" value="Korea, Republic of"/>
             <column name="code" value="KR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KW"/>
+            <column name="id" value="e33dc9d3-0d3d-4acc-9162-22a0e819ee01"/>
             <column name="country" value="Kuwait"/>
             <column name="code" value="KW"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="KG"/>
+            <column name="id" value="7186bf96-86de-4a06-b5ad-77e1d6ed66c0"/>
             <column name="country" value="Kyrgyzstan"/>
             <column name="code" value="CZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="LA"/>
+            <column name="id" value="3ec55cf8-65ce-4ea6-87c4-c64849b9cd72"/>
             <column name="country" value="Lao People'S Democratic Republic"/>
             <column name="code" value="LA"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="LV"/>
+            <column name="id" value="0614a076-3916-46a9-ab26-ed6e20ecf8e2"/>
             <column name="country" value="Latvia"/>
             <column name="code" value="LV"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="LB"/>
+            <column name="id" value="c2963003-04ea-4b9c-a0cb-93f3d96918eb"/>
             <column name="country" value="Lebanon"/>
             <column name="code" value="LB"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="LS"/>
+            <column name="id" value="2abe8686-4091-4360-86fb-c24317b09533"/>
             <column name="country" value="Lesotho"/>
             <column name="code" value="LS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="LR"/>
+            <column name="id" value="92938d7f-bd84-4248-b03f-d7152414c6aa"/>
             <column name="country" value="Liberia"/>
             <column name="code" value="LR"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="LY"/>
+            <column name="id" value="be3c51db-f81f-4efb-a53b-c7412ad91a5a"/>
             <column name="country" value="Libyan Arab Jamahiriya"/>
             <column name="code" value="LY"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="LI"/>
+            <column name="id" value="7bb84e8f-c64c-486d-96ff-fe97310f3c1c"/>
             <column name="country" value="Liechtenstein"/>
             <column name="code" value="LI"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="LT"/>
+            <column name="id" value="7bfe27da-7dd3-4404-b267-8e45dbefb268"/>
             <column name="country" value="Lithuania"/>
             <column name="code" value="LT"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="LU"/>
+            <column name="id" value="aa3f32af-3355-4e2c-8458-5f689f231c4c"/>
             <column name="country" value="Luxembourg"/>
             <column name="code" value="LU"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MO"/>
+            <column name="id" value="24b174a3-aa3d-49aa-b07b-9b336bdd765b"/>
             <column name="country" value="Macao"/>
             <column name="code" value="MO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MK"/>
+            <column name="id" value="df8aa625-c81c-41d5-aac2-2c255c60951c"/>
             <column name="country" value="Macedonia, The Former Yugoslav Republic of"/>
             <column name="code" value="MK"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MG"/>
+            <column name="id" value="24637372-fc01-41a5-b389-a9aaa09978b7"/>
             <column name="country" value="Madagascar"/>
             <column name="code" value="MG"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MW"/>
+            <column name="id" value="cb408794-9d7f-4441-9ee9-cb7b5f9d128d"/>
             <column name="country" value="Malawi"/>
             <column name="code" value="MW"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MY"/>
+            <column name="id" value="121b8b22-12e0-46d0-b752-21611cde2b8c"/>
             <column name="country" value="Malaysia"/>
             <column name="code" value="MY"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="MV"/>
+            <column name="id" value="81dd6961-d783-49d2-8065-50a62f49c51d"/>
             <column name="country" value="Maldives"/>
             <column name="code" value="MV"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ML"/>
+            <column name="id" value="f13c0a82-f823-4f6e-bf81-de55efb33b70"/>
             <column name="country" value="Mali"/>
             <column name="code" value="ML"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MI"/>
+            <column name="id" value="bcf52931-a4e6-412c-9616-244e7a344020"/>
             <column name="country" value="Malta"/>
             <column name="code" value="MI"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MH"/>
+            <column name="id" value="7b8f3821-c235-455c-a739-e39d330000b5"/>
             <column name="country" value="Marshall Islands"/>
             <column name="code" value="MH"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MQ"/>
+            <column name="id" value="7db4ca99-4019-47bb-9627-27c29bfcd56e"/>
             <column name="country" value="Martinique"/>
             <column name="code" value="MQ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MR"/>
+            <column name="id" value="f38a55fc-fe35-40f9-af0a-d9dde1567ed5"/>
             <column name="country" value="Mauritania"/>
             <column name="code" value="MR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MU"/>
+            <column name="id" value="540f8e13-0821-4b03-a2f1-796beb695444"/>
             <column name="country" value="Mauritius"/>
             <column name="code" value="MU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="YT"/>
+            <column name="id" value="873f6101-c1fa-4c23-a81b-829adc1e1e00"/>
             <column name="country" value="Mayotte"/>
             <column name="code" value="YT"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MX"/>
+            <column name="id" value="c9a0da4e-e621-44cb-968f-e73685618775"/>
             <column name="country" value="Mexico"/>
             <column name="code" value="MX"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="FM"/>
+            <column name="id" value="d43484d4-441a-4843-8651-209e900a2615"/>
             <column name="country" value="Micronesia, Federated States of"/>
             <column name="code" value="FM"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MD"/>
+            <column name="id" value="ddff4078-6d36-45ba-9f79-27e76d2d830d"/>
             <column name="country" value="Moldova, Republic of"/>
             <column name="code" value="MD"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MC"/>
+            <column name="id" value="d89043de-0f1e-4201-91a3-cc75d9accd04"/>
             <column name="country" value="Monaco"/>
             <column name="code" value="MC"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MN"/>
+            <column name="id" value="fca075a3-72bc-48da-833d-03779d8af65d"/>
             <column name="country" value="Mongolia"/>
             <column name="code" value="MN"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="MS"/>
+            <column name="id" value="b6d05433-1c19-4026-856a-6c20c34dc14f"/>
             <column name="country" value="Montserrat"/>
             <column name="code" value="MS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MA"/>
+            <column name="id" value="85adb21d-6424-4d19-b21b-58ec8c068912"/>
             <column name="country" value="Morocco"/>
             <column name="code" value="MA"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MZ"/>
+            <column name="id" value="006af00d-19ca-40e6-b9d1-b9e3b1090f2f"/>
             <column name="country" value="Mozambique"/>
             <column name="code" value="MZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MM"/>
+            <column name="id" value="ce54c042-6b63-4f11-b963-6c94b1ced976"/>
             <column name="country" value="Myanmar"/>
             <column name="code" value="MM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NA"/>
+            <column name="id" value="c972b924-83aa-4af0-9062-da2e9f6fa2e5"/>
             <column name="country" value="Namibia"/>
             <column name="code" value="NA"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NR"/>
+            <column name="id" value="d325d71c-168c-4440-95df-476ce92050bd"/>
             <column name="country" value="Nauru"/>
             <column name="code" value="NR"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="NP"/>
+            <column name="id" value="b1b097ef-0c52-4313-834f-1285ba63ba40"/>
             <column name="country" value="Nepal"/>
             <column name="code" value="NP"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="NL"/>
+            <column name="id" value="fa11a8fe-86a3-45a0-8b0d-735497d40375"/>
             <column name="country" value="Netherlands"/>
             <column name="code" value="NL"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="AN"/>
+            <column name="id" value="860ecb1a-edb2-4cf5-acff-bb4b2c0afbed"/>
             <column name="country" value="Netherlands Antilles"/>
             <column name="code" value="AN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NC"/>
+            <column name="id" value="c4ec19cd-0e54-41e5-807d-ebde939f65da"/>
             <column name="country" value="New Caledonia"/>
             <column name="code" value="NC"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NZ"/>
+            <column name="id" value="15264731-9b2b-4632-9d78-31c70a1c7110"/>
             <column name="country" value="New Zealand"/>
             <column name="code" value="NZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NI"/>
+            <column name="id" value="c0c9a8f7-146b-45b8-b216-a55aa88b22cd"/>
             <column name="country" value="Nicaragua"/>
             <column name="code" value="NI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NE"/>
+            <column name="id" value="e09d209f-0cf1-4823-b04b-2caa11a8f3d5"/>
             <column name="country" value="Niger"/>
             <column name="code" value="NE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NG"/>
+            <column name="id" value="289816d3-e075-4466-ab9f-442ecca840aa"/>
             <column name="country" value="Nigeria"/>
             <column name="code" value="NG"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="NU"/>
+            <column name="id" value="140fae78-ad89-467f-a5f1-e65d58e0423a"/>
             <column name="country" value="Niue"/>
             <column name="code" value="NU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="NF"/>
+            <column name="id" value="548a4871-d308-4c4e-867f-b83947dd78da"/>
             <column name="country" value="Norfolk Island"/>
             <column name="code" value="NF"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="MP"/>
+            <column name="id" value="76a4e013-3da1-4c4d-84a5-082c9b87f15c"/>
             <column name="country" value="Northern Mariana Islands"/>
             <column name="code" value="MP"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="OM"/>
+            <column name="id" value="5bb81034-262d-4956-b53d-20b97c6b9153"/>
             <column name="country" value="Oman"/>
             <column name="code" value="OM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PK"/>
+            <column name="id" value="a5c7d78e-aa10-4bd8-a5ba-fe9fe1f098ce"/>
             <column name="country" value="Pakistan"/>
             <column name="code" value="PK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PW"/>
+            <column name="id" value="e02ac831-93f2-44bb-9cd7-846b8e0dfaf9"/>
             <column name="country" value="Palau"/>
             <column name="code" value="PW"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PS"/>
+            <column name="id" value="c356d514-2d68-4abc-ba9f-1b23b8bd1438"/>
             <column name="country" value="Palestinian Territory, Occupied"/>
             <column name="code" value="PS"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="PA"/>
+            <column name="id" value="b722ccc1-b04b-41b0-938c-f8636ec1b4f2"/>
             <column name="country" value="Panama"/>
             <column name="code" value="PA"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="PG"/>
+            <column name="id" value="5187e370-3e84-4599-9849-432a92231dd6"/>
             <column name="country" value="Papua New Guinea"/>
             <column name="code" value="PG"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="PY"/>
+            <column name="id" value="39da2865-4b22-4396-8549-4b091cd07a30"/>
             <column name="country" value="Paraguay"/>
             <column name="code" value="PY"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="PH"/>
+            <column name="id" value="52ea2db8-5d3e-4467-84ab-955c81d7a208"/>
             <column name="country" value="Philippines"/>
             <column name="code" value="PH"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PN"/>
+            <column name="id" value="a0f8230a-34ce-4d8d-b293-bf6e97de04ad"/>
             <column name="country" value="Pitcairn"/>
             <column name="code" value="PN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PL"/>
+            <column name="id" value="dea412a0-a1fb-4037-8945-ae4d00919d24"/>
             <column name="country" value="Poland"/>
             <column name="code" value="PL"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PT"/>
+            <column name="id" value="b855ef37-3f1d-4002-bf4f-5dd64f31886c"/>
             <column name="country" value="Portugal"/>
             <column name="code" value="PT"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PR"/>
+            <column name="id" value="a1024ffe-72ac-46e3-80db-f8f3fff2aa8e"/>
             <column name="country" value="Puerto Rico"/>
             <column name="code" value="PR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="QA"/>
+            <column name="id" value="f9bb8b61-1577-4b37-85fd-d769b89d4c6a"/>
             <column name="country" value="Qatar"/>
             <column name="code" value="QA"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="RE"/>
+            <column name="id" value="a671c69f-2afc-4d81-aa1a-e9327fdec406"/>
             <column name="country" value="Reunion"/>
             <column name="code" value="RE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="RO"/>
+            <column name="id" value="40f9793e-d5d3-4bd4-ba31-86d6784b8e54"/>
             <column name="country" value="Romania"/>
             <column name="code" value="RO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="RU"/>
+            <column name="id" value="1c27873d-83e3-4932-ac59-f8cf91d870d4"/>
             <column name="country" value="Russian Federation"/>
             <column name="code" value="RU"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="RW"/>
+            <column name="id" value=" a220541c-0ea8-4359-8150-e80935c8a43a"/>
             <column name="country" value="RWANDA"/>
             <column name="code" value="RW"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="SH"/>
+            <column name="id" value="3f4a8804-4b85-428f-a3c7-148bd8f5adb7"/>
             <column name="country" value="Saint Helena"/>
             <column name="code" value="SH"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="KN"/>
+            <column name="id" value="490adfcd-e297-4b91-b353-74c8e0ff12bc"/>
             <column name="country" value="Saint Kitts and Nevis"/>
             <column name="code" value="KN"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="LC"/>
+            <column name="id" value="5e78d158-17b7-4d2b-96d1-52e15dea1094"/>
             <column name="country" value="Saint Lucia"/>
             <column name="code" value="LC"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="PM"/>
+            <column name="id" value="f6eaa04f-16a4-43b3-9187-fc6b2b44c84a"/>
             <column name="country" value="Saint Pierre and Miquelon"/>
             <column name="code" value="PM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="VC"/>
+            <column name="id" value="4486a43b-4efb-4711-9b2d-c909b1bef6bf"/>
             <column name="country" value="Saint Vincent and the Grenadines"/>
             <column name="code" value="VC"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="WS"/>
+            <column name="id" value="2fcd1e6a-0e0e-437e-bfb2-92622efae6a5"/>
             <column name="country" value="Samoa"/>
             <column name="code" value="WS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SM"/>
+            <column name="id" value="7a6d09cf-ca4a-43b7-9c0e-f7707f8a931a"/>
             <column name="country" value="San Marino"/>
             <column name="code" value="SM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ST"/>
+            <column name="id" value="41966df4-d31b-4d9e-8850-e7a71d431f75"/>
             <column name="country" value="Sao Tome and Principe"/>
             <column name="code" value="ST"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SA"/>
+            <column name="id" value="63c3b120-7fce-4175-8666-ca452b5a7a19"/>
             <column name="country" value="Saudi Arabia"/>
             <column name="code" value="SA"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SN"/>
+            <column name="id" value="18d02488-a3f0-4c86-823d-f354685b4731"/>
             <column name="country" value="Senegal"/>
             <column name="code" value="SN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="CS"/>
+            <column name="id" value="f7de7173-f6c7-4547-93ee-3d662a96ee8c"/>
             <column name="country" value="Serbia and Montenegro"/>
             <column name="code" value="CS"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="SC"/>
+            <column name="id" value="a45bea80-9ec5-40e6-8ee7-bdad3878a131"/>
             <column name="country" value="Seychelles"/>
             <column name="code" value="SC"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="SL"/>
+            <column name="id" value="63e73b44-3bef-4950-9c1b-841d37dce231"/>
             <column name="country" value="Sierra Leone"/>
             <column name="code" value="SL"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="SG"/>
+            <column name="id" value="d3ceaefa-ff96-4d0b-8d28-f99579f5a91c"/>
             <column name="country" value="Singapore"/>
             <column name="code" value="SG"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="SK"/>
+            <column name="id" value="fcecc715-82d8-486e-8df6-82efcb2d1598"/>
             <column name="country" value="Slovakia"/>
             <column name="code" value="SK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SI"/>
+            <column name="id" value="488bea9f-80e4-4279-ac73-2a2e613d67ee"/>
             <column name="country" value="Slovenia"/>
             <column name="code" value="SI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SB"/>
+            <column name="id" value="03e953ed-0a1e-48d1-8976-d050020d3833"/>
             <column name="country" value="Solomon Islands"/>
             <column name="code" value="SB"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SO"/>
+            <column name="id" value="5dc60d5b-1bf8-4c7e-a9ff-0a906a8a1b07"/>
             <column name="country" value="Somalia"/>
             <column name="code" value="SO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ZA"/>
+            <column name="id" value="e67c1c27-956a-4ec7-9a40-aafe94bbbe4b"/>
             <column name="country" value="South Africa"/>
             <column name="code" value="ZA"/>
         </insert>
 
 
         <insert tableName="countries">
-            <column name="id" value="GS"/>
+            <column name="id" value="1cd7f425-dab9-4108-933f-bb050628ea57"/>
             <column name="country" value="South Georgia and the South Sandwich Islands"/>
             <column name="code" value="GS"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ES"/>
+            <column name="id" value="f2be2139-c71c-4def-845b-a9af64423103"/>
             <column name="country" value="Spain"/>
             <column name="code" value="ES"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="LK"/>
+            <column name="id" value="317d5b1b-2d74-4054-9024-7b0f984a6661"/>
             <column name="country" value="Sri Lanka"/>
             <column name="code" value="LK"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="SD"/>
+            <column name="id" value="17de2610-e556-4a1a-8d1e-58a6ed456a80"/>
             <column name="country" value="Sudan"/>
             <column name="code" value="SD"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="SR"/>
+            <column name="id" value="8a019be6-d786-4252-ae0b-cc1f29c6d055"/>
             <column name="country" value="Suriname"/>
             <column name="code" value="SR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SJ"/>
+            <column name="id" value="cb472517-b8c5-49c3-89d4-f96d68a26e04"/>
             <column name="country" value="Svalbard and Jan Mayen"/>
             <column name="code" value="SJ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="Eswatini"/>
-            <column name="country" value="Swaziland"/>
+            <column name="id" value="706fc254-4a3c-4cef-af8d-65e60b246611"/>
+            <column name="country" value="Eswatini"/>
             <column name="code" value="SZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SE"/>
+            <column name="id" value="b45f63c4-cb28-4fe9-8aee-26a01348964f"/>
             <column name="country" value="Sweden"/>
             <column name="code" value="SE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="SY"/>
+            <column name="id" value="1c7f8c9f-2dc6-4a7c-b335-29fbcab70405"/>
             <column name="country" value="Syrian Arab Republic"/>
             <column name="code" value="SY"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TW"/>
+            <column name="id" value="01c79031-79e2-4e46-bec4-3bbade224502"/>
             <column name="country" value="Taiwan, Province of China"/>
             <column name="code" value="TW"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TJ"/>
+            <column name="id" value="de26fc0f-7ca9-4473-baac-2b025fdf1073"/>
             <column name="country" value="Tajikistan"/>
             <column name="code" value="TJ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TZ"/>
+            <column name="id" value="a4ebe957-1ded-4d05-bcd4-1b06f4bb4b0a"/>
             <column name="country" value="Tanzania, United Republic of"/>
             <column name="code" value="TZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TH"/>
+            <column name="id" value="28d67247-6015-4243-9f35-13597fd11db6"/>
             <column name="country" value="Thailand"/>
             <column name="code" value="TH"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TL"/>
+            <column name="id" value="a71f62e5-bd8f-40f9-bda6-1f9deb00e0db"/>
             <column name="country" value="Timor-Leste"/>
             <column name="code" value="TL"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TG"/>
+            <column name="id" value="4812d34e-350e-40bd-812e-15eec2fb9815"/>
             <column name="country" value="Togo"/>
             <column name="code" value="TG"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="TK"/>
+            <column name="id" value="234b02a1-4966-472e-a97c-0cd65c932e65"/>
             <column name="country" value="Tokelau"/>
             <column name="code" value="TK"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TO"/>
+            <column name="id" value="cb73ffc6-53f1-452f-a7af-398020b4ab8e"/>
             <column name="country" value="Tonga"/>
             <column name="code" value="TO"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TT"/>
+            <column name="id" value="0eb0597c-33ac-429e-bbfd-5fa014094236"/>
             <column name="country" value="Trinidad and Tobago"/>
             <column name="code" value="TT"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TN"/>
+            <column name="id" value="4bdba861-b13b-4dc9-943a-89b0c2931196"/>
             <column name="country" value="Tunisia"/>
             <column name="code" value="TN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TR"/>
+            <column name="id" value="8b86f71a-b9d1-41ce-926e-cc4e9222f831"/>
             <column name="country" value="Turkey"/>
             <column name="code" value="TR"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TM"/>
+            <column name="id" value="67fd4d9b-1314-4e11-b7fc-cc59ee626c27"/>
             <column name="country" value="Turkmenistan"/>
             <column name="code" value="TM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TC"/>
+            <column name="id" value="2edb7440-968f-412d-9916-85d34a488c82"/>
             <column name="country" value="Turks and Caicos Islands"/>
             <column name="code" value="TC"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="TV"/>
+            <column name="id" value="68e7297a-0eae-48c7-8025-eb3ed6d24da0"/>
             <column name="country" value="Tuvalu"/>
             <column name="code" value="TV"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="UG"/>
+            <column name="id" value="ca8ac92f-da43-4a0f-9bcd-b3e49821aebf"/>
             <column name="country" value="Uganda"/>
             <column name="code" value="UG"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="UA"/>
+            <column name="id" value="1000070d-2812-488e-9c2a-7c4c0989cd2c"/>
             <column name="country" value="Ukraine"/>
             <column name="code" value="UA"/>
         </insert>
         <insert tableName="countries">
-            <column name="id" value="AE"/>
+            <column name="id" value="7960b20c-b853-4774-8300-edd8fd02a180"/>
             <column name="country" value="United Arab Emirates"/>
             <column name="code" value="AE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="GB"/>
+            <column name="id" value="c0bb8121-cff9-4b0f-89c5-15d6f16902b8"/>
             <column name="country" value="United Kingdom"/>
             <column name="code" value="GB"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="US"/>
+            <column name="id" value="e8a78af7-9d75-46e2-a0d9-fab16980a6d6"/>
             <column name="country" value="United States"/>
             <column name="code" value="US"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="UM"/>
+            <column name="id" value="30e225d2-ff0d-4902-9871-0bc45de3a014"/>
             <column name="country" value="United States Minor Outlying Islands"/>
             <column name="code" value="UM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="UY"/>
+            <column name="id" value="7f4ac9cc-ac2f-433c-b303-79635af1a235"/>
             <column name="country" value="Uruguay"/>
             <column name="code" value="UY"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="UZ"/>
+            <column name="id" value="402dffda-54a8-4169-aae6-7b7969b16acd"/>
             <column name="country" value="Uzbekistan"/>
             <column name="code" value="UZ"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="VU"/>
+            <column name="id" value="59a8e82e-7487-4a75-81bf-22adc4333713"/>
             <column name="country" value="Vanuatu"/>
             <column name="code" value="VU"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="VE"/>
+            <column name="id" value="6f5bd792-41e7-4097-824c-a0d5498816f9"/>
             <column name="country" value="Venezuela"/>
             <column name="code" value="VE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="VN"/>
+            <column name="id" value="6147f652-1628-4675-bb1e-b8e7025068b9"/>
             <column name="country" value="Viet Nam"/>
             <column name="code" value="VN"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="VG"/>
+            <column name="id" value="9c3b915a-c93a-43a3-b03c-f69169cf4266"/>
             <column name="country" value="Virgin Islands, British"/>
             <column name="code" value="VG"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="VI"/>
+            <column name="id" value="93e50feb-746b-49b5-a2ec-73fc03e4b7b2"/>
             <column name="country" value="Virgin Islands, U.S."/>
             <column name="code" value="VI"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="WF"/>
+            <column name="id" value="b3237a5d-cfbf-4994-b8c9-87a57e4d00ed"/>
             <column name="country" value="Wallis and Futuna"/>
             <column name="code" value="WF"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="EH"/>
+            <column name="id" value="456d4263-6905-4047-8f9d-23c30ccb7195"/>
             <column name="country" value="Western Sahara"/>
             <column name="code" value="EH"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="YE"/>
+            <column name="id" value="e26fd8af-35c6-407d-be34-ebb0dd966a17"/>
             <column name="country" value="Yemen"/>
             <column name="code" value="YE"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ZM"/>
+            <column name="id" value="6a50c68a-a9bd-4d83-899d-9299d84bfb17"/>
             <column name="country" value="Zambia"/>
             <column name="code" value="ZM"/>
         </insert>
 
         <insert tableName="countries">
-            <column name="id" value="ZW"/>
+            <column name="id" value="6384752d-b9eb-4cdc-a207-0360814a7873"/>
             <column name="country" value="Zimbabwe"/>
             <column name="code" value="ZW"/>
         </insert>
